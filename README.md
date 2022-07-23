@@ -1,5 +1,5 @@
 # Paper-reviews
-##Don't be afraid of reading papers with mathematics!
+Don't be afraid of reading papers with mathematics!  
 Are you sick of papers that mention a bunch of mathematical theorems you have never heard of and searching for them?
 Or figuring out what on this ridiculous mathematical world is going on? 
 Don't worry!
